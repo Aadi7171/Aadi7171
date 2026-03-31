@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -28,6 +28,7 @@ jobs:
       - name: Push to output branch
         run: |
           cd dist
+          rm -rf .git  # Clean up any existing .git directory
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
