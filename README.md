@@ -19,13 +19,14 @@
 ---
 
 ## ⚡ About Me
+
 ```python
 class AadityaPathak:
     def __init__(self):
         self.location     = "India 🇮🇳"
-        self.focus        = ["AI/ML", "Full-Stack", "Mobile", "Backend", "Web"]
+        self.focus        = ["Full-Stack", "Mobile", "Backend", "Web"]
         self.philosophy   = "Don't just build — ship. Don't just ship — scale."
-        self.languages    = ["Python", "JavaScript", "TypeScript", "Dart", "SQL", "C++", "BASH"]
+        self.languages    = ["Python", "JavaScript", "TypeScript", "Dart", "SQL"]
         self.currently    = "Building across web, mobile, and backend"
 
     def approach(self):
