@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Computer+Vision+%7C+Edge+AI;Full-Stack+%7C+Flutter+%7C+React;Building+real+systems+for+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+%7C+Mobile+Developer;Python+%7C+JavaScript+%7C+TypeScript;Web+%2B+Mobile+%2B+Backend;Building+real+systems+for+real+problems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,15 +19,14 @@
 ---
 
 ## ⚡ About Me
-
 ```python
 class AadityaPathak:
     def __init__(self):
         self.location     = "India 🇮🇳"
-        self.focus        = ["AI/ML", "Computer Vision", "Edge Systems", "Full-Stack"]
-        self.philosophy   = "Don't just detect — understand. Don't just build — ship."
-        self.languages    = ["Python", "JavaScript", "Dart", "SQL"]
-        self.currently    = "Building systems that operate at the edge of intelligence"
+        self.focus        = ["Full-Stack", "Mobile", "Backend", "Web"]
+        self.philosophy   = "Don't just build — ship. Don't just ship — scale."
+        self.languages    = ["Python", "JavaScript", "TypeScript", "Dart", "SQL"]
+        self.currently    = "Building across web, mobile, and backend"
 
     def approach(self):
         return "Real-world constraints → Elegant algorithmic solutions"
@@ -93,7 +92,9 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI / ML**
 
@@ -143,7 +144,7 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi7171&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://raw.githubusercontent.com/Aadi7171/Aadi7171/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
