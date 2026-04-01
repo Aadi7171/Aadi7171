@@ -29,7 +29,3 @@ jobs:
           git add .
           git commit -m "Update snake animation"
           git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Aadi7171/Aadi7171.git" HEAD:output
-git config user.email "github-actions[bot]@users.noreply.github.com"
-git add .
-git commit -m "Update snake animation"
-git push --force "https://github.com/Aadi7171/Aadi7171.git" HEAD:output
