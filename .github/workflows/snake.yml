@@ -1,20 +1,16 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
-
+        uses: actions/checkout@v4
       - name: Generate Snake
         uses: Platane/snk@v3
         env:
@@ -24,13 +20,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - name: Push to output branch
         run: |
           cd dist
-rm -rf .git  # This will remove the directory
-git init
-git config user.name "github-actions[bot]"
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update snake animation"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Aadi7171/Aadi7171.git" HEAD:output
 git config user.email "github-actions[bot]@users.noreply.github.com"
 git add .
 git commit -m "Update snake animation"
