@@ -134,11 +134,9 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=Aadi7171&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadi7171&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
 
 <div align="center">
 
