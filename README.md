@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AADITYA%20PATHAK&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20systems%20that%20think%20before%20they%20act&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AADITYA%20PATHAK&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20systems%20that%20think%20before%20they%20act&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI/ML+And+Full+Stack+WebDeveloper;Flutter+%7C+Mobile+Developer;Python+%7C+JavaScript+%7C+TypeScript;Web+%2B+Mobile+%2B+Backend;Building+real+systems+for+real+problems" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Full-Stack+%26+Mobile+Developer;Python+%7C+JavaScript+%7C+TypeScript+%7C+Dart;Building+real+systems+for+real+problems)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityapathak-)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadi7171)
-![Profile Views](https://komarev.com/ghpvc/?username=Aadi7171&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aadi7171&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Aadi7171)
 
 </div>
 
@@ -24,9 +20,9 @@
 class AadityaPathak:
     def __init__(self):
         self.location     = "India 🇮🇳"
-        self.focus        = ["AI/ML", "Full-Stack", "Mobile", "Backend", "Web"]
+        self.focus        = ["AI/ML", "Full-Stack", "Mobile", "Backend"]
         self.philosophy   = "Don't just build — ship. Don't just ship — scale."
-        self.languages    = ["Python", "JavaScript", "TypeScript", "Dart", "SQL", "BASH", "C++"]
+        self.languages    = ["Python", "JavaScript", "TypeScript", "Dart", "SQL", "C++"]
         self.currently    = "Building across web, mobile, and backend"
 
     def approach(self):
@@ -37,51 +33,52 @@ class AadityaPathak:
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎯 [Context-Aware Threat Engine](https://github.com/Aadi7171/Context-Aware-Threat-Engine)
 > *Most surveillance AI sees a frame. This one reads intent.*
 
-A real-time behavioral analysis system that tracks **how objects move across hundreds of frames** — not just what's in a single frame. Built on YOLOv8 + IoU tracking + a custom state machine that scores dwell time, proximity, and velocity spikes into a `SAFE → CRITICAL` threat ladder.
+Real-time behavioral analysis system that tracks **how objects move across hundreds of frames** — not just what's in one. Built on YOLOv8 + IoU tracking + a custom state machine that scores dwell time, proximity, and velocity spikes into a `SAFE → CRITICAL` threat ladder.
 
 `Python` `YOLOv8` `Computer Vision` `State Machine` `Real-Time`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🚑 [CareSync — AI Nurse Handoff System](https://github.com/Aadi7171/Caresync)
 > *Privacy-first, edge-deployed clinical intelligence.*
 
-Replaces friction-heavy hospital logins with biometric facial auth, auto-triages patient risk using SIRS criteria, and converts messy voice notes into structured SBAR summaries via edge LLM — all without sending data to the cloud.
+Biometric facial auth replaces hospital logins. Auto-triages patient risk via SIRS criteria. Converts voice notes to structured SBAR summaries using an edge LLM — zero cloud dependency.
 
 `Python` `DeepFace` `Streamlit` `OpenCV` `GenAI` `Healthcare`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🚚 [SwachhVan — Predictive Resource Allocation Matrix](https://github.com/Aadi7171/SwachhVan-Predictive-Resource-Allocation-Matrix)
+### 🚚 [SwachhVan — Predictive Resource Allocation](https://github.com/Aadi7171/SwachhVan-Predictive-Resource-Allocation-Matrix)
 > *Urban sanitation as a logistics optimization problem.*
 
-A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic demand using EWMA spike detection across 10 Delhi zones and dispatches a 6-van fleet via greedy demand-weighted routing — visualized on a live Folium dashboard.
+Dynamic routing engine for sanitation vans that forecasts foot-traffic demand using EWMA spike detection across 10 Delhi zones, dispatching a 6-van fleet via greedy demand-weighted routing on a live Folium dashboard.
 
 `Python` `EWMA Forecasting` `Fleet Routing` `Folium` `Smart Cities`
 
----
-
-### 🌍 [Lens Odyssey](https://github.com/Aadi7171/Lens-odyssey)
-> *Photography meets exploration.*
-
-`JavaScript` `React`
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 [Eklavya AI](https://github.com/Aadi7171/Eklavya-AI)
-> *AI-powered learning companion.*
+> *Your personalized AI learning companion.*
 
-`JavaScript` `React` `Vite`
+An adaptive learning platform powered by AI that tailors content, quizzes, and explanations to individual learning pace and style — making quality education accessible to everyone.
 
----
+`JavaScript` `React` `Vite` `AI`
 
-### 💊 [Acne](https://github.com/Aadi7171/acne)
-> *Flutter-based mobile application.*
-
-`Dart` `Flutter`
+</td>
+</tr>
+</table>
 
 ---
 
@@ -96,6 +93,8 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **AI / ML**
 
@@ -103,6 +102,8 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -111,11 +112,12 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Tools**
+**Tools & Infra**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -124,23 +126,33 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadi7171&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi7171&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadi7171&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi7171&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi7171&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aadi7171&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/Aadi7171)
+
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadi7171&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadi7171&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa)](https://github.com/Aadi7171)
+
+</div>
+
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 *"Build systems that think before they act."*
 
