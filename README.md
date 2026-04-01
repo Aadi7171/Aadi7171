@@ -145,7 +145,6 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 ## 🐍 Contribution Snake
 
 <div align="center">
-![Aadi7171's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadi7171&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 </div>
 
 ---
