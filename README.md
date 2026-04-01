@@ -1,4 +1,3 @@
-![Aadi7171's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadi7171&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 <div align="center">
 
 <!-- Animated Header -->
@@ -146,7 +145,7 @@ A dynamic routing engine for mobile sanitation vans that forecasts foot-traffic 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aadi7171/Aadi7171/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![Aadi7171's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadi7171&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 </div>
 
 ---
