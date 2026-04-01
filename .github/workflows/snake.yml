@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 permissions:
   contents: write
 jobs:
@@ -21,11 +23,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Push to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd dist
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
           git add .
           git commit -m "Update snake animation"
-          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Aadi7171/Aadi7171.git" HEAD:output
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/Aadi7171/Aadi7171.git" output
