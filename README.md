@@ -157,16 +157,6 @@ class AadityaPathak:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aadi7171&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
 ## 💡 What I'm Working On
 
 - 🔭 &nbsp;Improving **Context-Aware-Threat-Engine** with transformer-based models
