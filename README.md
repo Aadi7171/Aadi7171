@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185FA5&height=200&section=header&text=Aaditya%20Pathak&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20systems%20that%20matter&descAlignY=58&descSize=18" width="100%"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Full-Stack+%26+Mobile+Developer;Python+%7C+JavaScript+%7C+TypeScript+%7C+Dart;Building+real+systems+for+real+problems)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadityapathak-)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadi7171)
