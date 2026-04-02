@@ -19,12 +19,10 @@
 ```python
 class AadityaPathak:
     def __init__(self):
-        self.name       = "Aaditya Pathak"
-        self.role       = "CS Student & AI/ML Developer"
         self.location   = "India 🇮🇳"
-        self.focus      = ["Machine Learning", "Full-Stack Dev", "Mobile Apps"]
-        self.languages  = ["Python", "JavaScript", "Dart"]
-        self.currently  = "Building AI systems that solve real problems"
+        self.focus      = ["Machine Learning", "Full-Stack Dev", "Mobile Apps", "Backend"]
+        self.languages  = ["Python", "JavaScript", "Dart", "TypeScript", "SQL", "C++"]
+        self.currently  = "Building across AI systems that solve real problems , mobile, and backend" 
         self.ask_me_about = ["ML pipelines", "threat detection", "Flutter", "REST APIs"]
 
     def mission(self):
