@@ -127,7 +127,7 @@ class AadityaPathak:
       <a href="https://github.com/Aadi7171/Caresync">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💊 Acne — Flutter App</h3>
+      <h3>💊 Acne Trigger — Flutter App</h3>
       <p>A mobile app built in Dart/Flutter targeting skincare tracking and personalised product recommendations. Clean UI with smooth cross-platform performance.</p>
       <p>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
