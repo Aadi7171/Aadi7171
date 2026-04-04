@@ -68,94 +68,75 @@ class AadityaPathak:
 
 ---
 
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡 Context-Aware Threat Engine</h3>
-      <p>A real-time, ML-powered threat detection system that understands context — not just keywords. Uses NLP and behavioural signals to classify threats with high accuracy.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-009688?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Aadi7171/Context-Aware-Threat-Engine">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Eklavya-AI</h3>
-      <p>An AI-powered learning platform that personalises educational content. Designed to democratise quality education using intelligent recommendation and adaptive quizzing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/AI-181717?style=flat-square"/>
-        <img src="https://img.shields.io/badge/EdTech-185FA5?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Aadi7171/Eklavya-AI">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 SwachhVan — Predictive Resource Allocation</h3>
-      <p>Predictive ML system for smart waste and forest resource allocation. Uses historical patterns to reduce waste and optimise ranger/resource deployment in real time.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Predictive ML-639922?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GovTech-0f6e56?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Aadi7171/SwachhVan-Predictive-Resource-Allocation-Matrix">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📸 Lens Odyssey</h3>
-      <p>A visual exploration web app that transforms how users discover and interact with photography. Built with a focus on immersive UI and smooth browsing experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/UI/UX-D4537E?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Aadi7171/Lens-odyssey">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Caresync</h3>
-      <p>A healthcare synchronisation platform that connects patients, doctors, and records in one place. Simplifies appointment management and real-time health data sharing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HealthTech-E24B4A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/API-009688?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Aadi7171/Caresync">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💊 Acne Trigger — Flutter App</h3>
-      <p>A mobile app built in Dart/Flutter targeting skincare tracking and personalised product recommendations. Clean UI with smooth cross-platform performance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Mobile-F7931E?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Aadi7171/acne">View Repository →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 Agentic Video Pipeline</h3>
+<p>Autonomous multi-agent AI pipeline that transforms text prompts into platform-ready videos. Orchestrates <b>Gemini 2.5</b> agents for scriptwriting, voiceover, asset retrieval, and automated editing.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google-gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square"/>
+</p>
+<a href="https://github.com/Aadi7171/Agentic-video-pipeline">View Repository →</a>
+</td>
+<td width="50%" valign="top">
+<h3>📈 StockSense AI</h3>
+<p>Full-stack market intelligence dashboard for Indian retail investors. Scans <b>Nifty 50</b> in real-time for RSI/breakouts and uses <b>Gemini 1.5 Flash</b> to translate technical data into actionable insights.</p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/FinTech-0f6e56?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square"/>
+</p>
+<a href="https://github.com/Aadi7171/StockSense-AI">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡 Context-Aware Threat Engine</h3>
+<p>Advanced surveillance using <b>YOLOv8</b> and custom state machines. Goes beyond object detection to analyze <b>temporal behavior</b>—identifying loitering and proximity conflicts in real-time.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
+</p>
+<a href="https://github.com/Aadi7171/Context-Aware-Threat-Engine">View Repository →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🏫 Smart Classroom Analytics</h3>
+<p>Privacy-first engagement tracking. Fuses <b>MobileNetV2</b> for emotion recognition with <b>MediaPipe</b> posture analysis to generate real-time student attention heatmaps without storing raw video.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-00BFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/EdTech-185FA5?style=flat-square"/>
+</p>
+<a href="https://github.com/Aadi7171/Smart-Classroom-Analytics">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏥 ClinicalHandoff</h3>
+<p>AI nurse handoff system featuring biometric login, <b>SIRS-based</b> risk triage, and an <b>Edge LLM</b> that converts verbal clinical notes into structured SBAR summaries.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HealthTech-E24B4A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Edge_AI-FF4B4B?style=flat-square"/>
+</p>
+<a href="https://github.com/Aadi7171/ClinicalHandoff">View Repository →</a>
+</td>
+<td width="50%" valign="top">
+<h3>💓 BioRhythm</h3>
+<p><b>ESP32-based</b> wearable that translates live acoustic heartbeats into rhythmic MIDI/drum performances. Uses piezoelectric sensors and MPU6050 for motion-modulated synthesis.</p>
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square"/>
+</p>
+<a href="https://github.com/Aadi7171/BioRhythm">View Repository →</a>
+</td>
+</tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi7171&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi7171&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 ## 💡 What I'm Working On
 
