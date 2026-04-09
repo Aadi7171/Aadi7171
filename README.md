@@ -117,16 +117,6 @@ class AadityaPathak:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Caresync</h3>
-      <p>A healthcare synchronisation platform that connects patients, doctors, and records in one place. Simplifies appointment management and real-time health data sharing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HealthTech-E24B4A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/API-009688?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Aadi7171/Caresync">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>✈️ Aviation Alpha Research Pipeline</h3>
       <p>A production-grade quant research pipeline exploring alternative data from aviation stress. Features route overlap analysis, disruption spike detection, and Granger causality testing.</p>
       <p>
@@ -135,6 +125,16 @@ class AadityaPathak:
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       </p>
       <a href="https://github.com/Aadi7171/aviation-alpha">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 Acne Trigger — Flutter App</h3>
+      <p>A mobile app built in Dart/Flutter targeting skincare tracking and personalised product recommendations. Clean UI with smooth cross-platform performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mobile-F7931E?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Aadi7171/acne">View Repository →</a>
     </td>
   </tr>
 </table>
